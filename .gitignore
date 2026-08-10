@@ -1,0 +1,6 @@
+# Figure data is regenerated, not distributed: see paper_data/README.md and the
+# run_all_experiments.jl runners in each package.
+paper_data/*
+!paper_data/README.md
+
+.DS_Store
